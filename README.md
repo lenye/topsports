@@ -1,26 +1,25 @@
-# topsports
+# 滔博货控 MAX 申请助手
 
-## 滔博货控，MAX 申请助手
+通过自动化的操作，可以极大的提升工作效率，主要功能：
 
-- 指定时间完成申请
 - 自动人机验证
+- 指定时间自动完成申请
 
-### 上手指南
+## 上手指南
 
-#### 安装
+### 安装
 
-下载 [最新版本](https://github.com/lenye/topsports/releases/tag/v25.6.1)
+软件下载 [最新版本](https://github.com/lenye/topsports/releases/tag/v25.6.1)
 
-#### windows 操作系统
+### windows 操作系统
 
-1. 解压下载文件 topsports-max_v25.6.1_windows_x86_64.zip；
-2. 运行`tsmax.exe nike -p xxx -f xxx -w 2000`，耐克当期**申请时间**往后延迟2秒开始申请
+1. 解压下载文件 tsmax_v25.6.1_windows_x86_64.zip；
+2. 运行`tsmax.exe nike -p xxx -f xxx -w 1500`，执行耐克 MAX 申请，在当期的**申请时间**往后延迟 1.5 秒开始；详细参数说明：
     ```shell
     C:\>tsmax.exe nike -h
-    滔博货控-耐克~MAX~申请
     
     Usage:
-      topsports-max nike [flags]
+      tsmax nike [flags]
     
     Aliases:
       nike, nk
@@ -40,3 +39,7 @@
 * Windows
 * Linux
 * macOS
+
+## 免责声明
+
+本软件仅供学习和研究之用，使用此软件的风险由您自行承担，我们对使用该软件时产生的任何损失概不负责。
