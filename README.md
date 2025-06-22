@@ -9,12 +9,13 @@
 
 ### 安装
 
-软件下载 [最新版本](https://github.com/lenye/topsports/releases/tag/v25.6.1)
+软件下载 [最新版本](https://github.com/lenye/topsports/releases/tag/v25.6.2)
 
 ### windows 操作系统
 
-1. 解压下载文件 tsmax_v25.6.1_windows_x86_64.zip；
-2. 运行`tsmax.exe nike -p xxx -f xxx -w 1500`，执行耐克 MAX 申请，在当期的**申请时间**往后延迟 1.5 秒开始；详细参数说明：
+1. 解压下载文件 tsmax_v25.6.2_windows_x86_64.zip；
+2. 申请许可证，配置用户名；
+3. 运行`tsmax.exe nike -p xxx -f xxx -w 1500`，执行耐克 MAX 申请，在当期的**申请时间**往后延迟 1.5 秒开始；详细参数说明：
     ```shell
     C:\>tsmax.exe nike -h
     
@@ -31,8 +32,6 @@
       -c, --captcha int       人机验证需要延迟多少毫秒 (default 1000)
       -h, --help              help for nike
     ```
-
-**许可文件配置用户名**
 
 ### 支持的操作系统
 
