@@ -25,14 +25,14 @@
       nike, nk
     
     Flags:
-      -p, --password string   用户: XXXXXXX 的密码
+      -p, --password string   用户名: XXXXXXX 的密码
       -f, --file string       上传的excel文件
       -w, --when int          申请时机，与申请时间的间隔多少毫秒：负数=提前几毫秒，正数=延迟几毫秒 (default 0=准时)
       -c, --captcha int       人机验证需要延迟多少毫秒 (default 1000)
       -h, --help              help for nike
     ```
 
-**用户名的配置在许可文件中**
+**许可文件配置用户名**
 
 ### 支持的操作系统
 
