@@ -5,15 +5,17 @@
 - 自动人机验证
 - 指定时间自动完成申请
 
+支持耐克、阿迪达斯、匡威等品牌
+
 ## 上手指南
 
 ### 安装
 
-软件下载 [最新版本](https://github.com/lenye/topsports/releases/tag/v25.6.2)
+软件下载 [最新版本](https://github.com/lenye/topsports/releases/tag/v25.6.3)
 
 ### windows 操作系统
 
-1. 解压下载文件 tsmax_v25.6.2_windows_x86_64.zip；
+1. 解压下载文件 tsmax_v25.6.3_windows_x86_64.zip；
 2. 申请许可证，配置用户名；
 3. 运行`tsmax.exe nike -p xxx -f xxx -w 1500`，执行耐克 MAX 申请，在当期的**申请时间**往后延迟 1.5 秒开始；详细参数说明：
     ```shell
